@@ -1,0 +1,6 @@
+.hero-background {
+  background-clip: url('/image/hero-img.jpg');
+  background-size: cover; /* Ensure the image covers the section */
+  background-position: right; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating of the image */
+}
