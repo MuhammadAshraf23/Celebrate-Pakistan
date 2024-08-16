@@ -13,7 +13,7 @@ const TributeToFounders = () => {
           {/* Founder 1 */}
           <div className="mb-8 md:mb-0 flex-1">
             <img
-              src="https://cdnuploads.aa.com.tr/uploads/Contents/2019/12/25/thumbs_b_c_8756d429a35854c544d4b21185ef0c0f.jpg?v=170506"
+              src="/image/quaid-e-azam.jpg"
               alt="Muhammad Ali Jinnah"
               className="w-full h-64 object-cover rounded-lg mb-4"
               style={{ aspectRatio: "16/9" }}
@@ -28,7 +28,7 @@ const TributeToFounders = () => {
           {/* Founder 2 */}
           <div className="mb-8 md:mb-0 flex-1">
             <img
-              src="https://stratagem.pk/wp-content/uploads/2015/08/Iqbal-and-the-vision-of-Pakistan-810x539.jpg"
+              src="image/iqbal.jpg"
               alt="Allama Iqbal"
               className="w-full h-64 object-cover rounded-lg mb-4"
               style={{ aspectRatio: "16/9" }}
@@ -43,7 +43,7 @@ const TributeToFounders = () => {
           {/* Founder 3 */}
           <div className="mb-8 md:mb-0 flex-1">
             <img
-              src="https://newsimage.radio.gov.pk/20200709/19320841011594268656.jpg"
+              src="image/fatima.jpg"
               alt="Fatima Jinnah"
               className="w-full h-64 object-cover rounded-lg mb-4"
               style={{ aspectRatio: "16/9" }}

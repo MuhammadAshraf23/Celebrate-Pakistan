@@ -4,27 +4,27 @@ import React from 'react';
 const heroes = [
   {
     name: 'Malala Yousafzai',
-    image: 'https://cdn-blogs.tribune.com.pk/2016/12/43992-malala-1482158066.jpg',
+    image: 'image/malala.jpg',
     description: 'Education activist and the youngest Nobel Prize laureate.',
   },
   {
     name: 'Abdul Sattar Edhi',
-    image: 'https://thelogicalindian.com/h-upload/2020/01/27/164668-final-11.jpg',
+    image: '/image/sattar.jpg',
     description: 'Philanthropist and founder of the Edhi Foundation, serving humanity.',
   },
   {
     name: 'Arfa Karim',
-    image: 'https://www.app.com.pk/wp-content/uploads/2024/01/Arfa-Karim.jpg',
+    image: 'image/arfa.jpg',
     description: 'The world’s youngest Microsoft Certified Professional at age nine.',
   },
   {
     name: 'Dr. Abdul Qadeer Khan',
-    image: 'https://cdn.britannica.com/21/154521-050-8E37553D/Abdul-Qadeer-Khan.jpg',
+    image: 'image/qadir.webp',
     description: 'Nuclear physicist and a key figure in Pakistan’s nuclear program.',
   },
   {
     name: 'Benazir Bhutto',
-    image: 'https://www.pakistantoday.com.pk/wp-content/uploads/2023/06/Alpha-13.jpg',
+    image: 'image/benazir.jpg',
     description: 'First woman to head a democratic government in a majority Muslim nation.',
   },
   {

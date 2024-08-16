@@ -4,27 +4,27 @@ import React from 'react';
 const provinces = [
   {
     name: 'Sindh',
-    image: 'https://www.aboutpakistan.com/blog/wp-content/uploads/2020/07/Sindhi-Culture.jpg',
+    image: 'image/sindh.jpg',
     description: 'Explore the unique traditions, languages, and festivals of Sindh.',
   },
   {
     name: 'Punjab',
-    image: 'https://i.brecorder.com/primary/2022/03/622e8d506cb63.jpg',
+    image: 'image/punjab.jpg',
     description: 'Discover the rich cultural heritage of Punjab.',
   },
   {
     name: 'Balochistan',
-    image: 'https://www.balochistanvoices.com/wp-content/uploads/2016/06/Bclf-1021x580.jpg',
+    image: 'image/balochistan.jpg',
     description: 'Experience the diverse traditions and languages of Balochistan.',
   },
   {
     name: 'Khyber Pakhtunkhwa',
-    image: 'https://image.slidesharecdn.com/kpkculturemilyas918-fms-150905081047-lva1-app6892/85/Kpk-culture-24-320.jpg',
+    image: 'image/kpk.webp',
     description: 'Learn about the vibrant culture and history of Khyber Pakhtunkhwa.',
   },
   {
     name: 'Gilgit-Baltistan',
-    image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr7lvaaM9E5t2qFg-myfMgQp1eZBtDlK3u44uU-uNumVhJDPNURpR1uKcUGWUUxCKHcRPb1Yzcv-xrcXxUSDeubmlRaFC7zRv6nc95F9ULf5EZQr-laVerluS1bJwLm8JPTRQZTppkyaXU6X31sOSNNE843D3q_1AcOQyIXDhBRuAOtOjtseXjT-YF/s500/culture..jpg',
+    image: 'image/balti.jpg',
     description: 'Immerse yourself in the stunning landscapes and cultures of Gilgit-Baltistan.',
   },
 ];
